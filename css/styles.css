@@ -1,4 +1,5 @@
   
+  
 @import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
 header, section, footer{
     width:960px;
@@ -927,13 +928,14 @@ video{
       height:150px;
      
       margin-top:75px;
-      margin-left:40px;
+      margin-left:10px;
       }
    
     #botonera{
+      padding:0
       height: 200px;
-      width:200px;
-      margin-right:40px;
+      width:150px;
+      margin-right:20px;
       margin-top:0px;
     }
     .lista1{
@@ -943,11 +945,12 @@ video{
       display: block;
      }
      .nav1{
-      height: 200px;
-      margin:0;
-      padding-top:15px;
-      text-align: center;
-    }
+      width:150px;
+     height: 200px;
+     margin:0;
+     padding:0px;
+     text-align: center;
+   }
   section{
     height:1200px;
     
@@ -972,7 +975,7 @@ video{
    }
   #foto1{
     
-      margin-left: 140px;
+    margin-left: 80px;
       margin-top:20px;
     
     
@@ -980,38 +983,38 @@ video{
   #foto2{
  
     clear: left;
-    margin-left:140px;
+    margin-left: 80px;
     margin-top:100px;
     
   }
   #foto3{
     
     clear:left;
-    margin-left:140px;
-    margin-top:120px;
+    margin-left: 80px;
+    margin-top:150px;
   }
   #texto1{
-    width:400px;
+    width:300px;
     height:200px;
     position:absolute;
-    margin-left:50px;
+    margin-left:30px;
     margin-top:220px;
     
   }
   #texto2{
-    width:400px;
+    width:300px;
     height:200px;
     position:absolute;
-    margin-left:50px;
+    margin-left:30px;
     margin-top:520px;
         
   }
   #texto3{
-    width:400px;
+    width:300px;
     height:200px;
     position:absolute;
-    margin-left:50px;
-    margin-top:840px;
+    margin-left:30px;
+    margin-top:860px;
         
     
   }
@@ -1025,7 +1028,7 @@ video{
   #imagen{
    height: 200px;
    width: 200px;
-   margin:280px 130px;
+   margin:280px 80px;
   clear:left;
 
     
@@ -1092,21 +1095,21 @@ video{
 }
 #imagen1{
    
-    margin-left:120px;
+    margin-left:80px;
     
   }
 
   #imagen2{
     
     clear:left;
-    margin-left:120px;
+    margin-left:80px;
     margin-top:100px;
     
   }
   #imagen3{
     
     clear:left;
-    margin-left:120px;
+    margin-left:80px;
     margin-top:100px;
     
     
@@ -1114,60 +1117,60 @@ video{
   #imagen4{
     
     clear:left;
-    margin-left:120px;
+    margin-left:80px;
     margin-top:100px;
     
   }
   #imagen5{
     clear:left;
-    margin-left:70px;
+    margin-left:30px;
     margin-top:30px;
     
   }
   #imagen6{
     clear:left;
-    margin-left:70px;
+    margin-left:30px;
     margin-top:120px;
   }
   #imagen7{
     clear:left;
-    margin-left:70px;
+    margin-left:30px;
     margin-top:120px;
   }
   #nota1{
     position:absolute;
     margin-top:220px;
-    margin-left:150px;
+    margin-left:110px;
   }
    #nota2{
     position:absolute;
     margin-top:520px;
-    margin-left:150px;
+    margin-left:110px;
   }
    #nota3{
     position:absolute;
     margin-top:820px;
-    margin-left:150px;
+    margin-left:110px;
   }
    #nota4{
     
     margin-top:5px;
-    margin-left:150px;
+    margin-left:110px;
   }
    #nota5{
     position:absolute;
     margin-top:330px;
-    margin-left:150px;
+    margin-left:110px;
   }
    #nota6{
     position:absolute;
     margin-top:760px;
-    margin-left:150px;
+    margin-left:110px;
   }
    #nota7{
     
     margin-top:10px;
-    margin-left:150px;
+    margin-left:110px;
   }
   
   
@@ -1177,118 +1180,109 @@ video{
   }
  
 .japon1{
-    width:400px;
-    height:400px;
+    width:300px;
+    height:300px;
     
-    margin-left:15px;
+    margin-left:30px;
     margin-top:50px;
     
 
 }
 .japon2{
   clear:left;
-  width:400px;
-    height:400px;
+  width:300px;
+    height:300px;
     
-    margin-left:15px;
+    margin-left:30px;
   margin-top:50px;
 }
 .japon3{
   clear:left;
-  width:400px;
-  height:400px;
+  width:300px;
+  height:300px;
   
-  margin-left:15px;
+  margin-left:30px;
   margin-top:50px;
   
 }
 .japon4{
   clear:left;
-  width:400px;
-  height:400px;
+  width:300px;
+  height:300px;
   
-  margin-left:15px;
+  margin-left:30px;
   margin-top:50px;
   
 
 }
 .american1{
-  width:400px;
-    height:400px;
+  width:300px;
+    height:300px;
     
-    margin-left:15px;
+    margin-left:30px;
     margin-top:50px;
 }
 .american2{
   clear:left;
-  width:400px;
-  height:400px;
+  width:300px;
+  height:300px;
   
-  margin-left:15px;
+  margin-left:30px;
   margin-top:50px;
 }
 .american3{
   clear:left;
-  width:400px;
-  height:400px;
+  width:300px;
+  height:300px;
   
-  margin-left:15px;
+  margin-left:30px;
   margin-top:50px;
 }
 .american4{
   clear:left;
-  width:400px;
-  height:400px;
+  width:300px;
+  height:300px;
   
-  margin-left:15px;
+  margin-left:30px;
   margin-top:50px;
 }
 .newsc1{
-  width:400px;
-    height:400px;
-    
-    margin-left:15px;
+  width:300px;
+  height:300px;
+  
+  margin-left:30px;
     margin-top:50px;
 }
 .newsc2{
   clear:left;
-  width:400px;
-  height:400px;
+  width:300px;
+  height:300px;
   
-  margin-left:15px;
+  margin-left:30px;
   margin-top:50px;
   
 }
 .newsc3{
   clear:left;
-  width:400px;
-  height:400px;
+  width:300px;
+  height:300px;
   
-  margin-left:15px;
+  margin-left:30px;
   margin-top:50px;
   
 }
 .newsc4{
   clear:left;
-  width:400px;
-  height:400px;
-  
-  margin-left:15px;
+  width:300px;
+    height:300px;
+    
+    margin-left:30px;
   margin-top:50px;
 }
 .section-tattoo{
-  height:5450px;
+  height:4250px;
 
 }
-.tattoo-titles{
-  clear:left;
-  padding-top: 30px;
-  position:relative;
-  text-decoration: underline;
-  text-shadow: 5px 10px 7px rgba(0,0,0,0.5);
-
-}
-
 
 
 }/*fin formato celular*/
